@@ -1,0 +1,39 @@
+.name1 {
+    font-family: ABeeZee;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 18px;
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+}
+
+.name {
+    display: flex;
+    flex-direction: column;
+    font-family: ABeeZee;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 18px;
+    margin-top: 8%;
+}
+.detail {
+    width: 100px;
+}
+.price {
+    margin-left: 20%;
+}
+.all1 {
+    display: flex;
+    flex-direction: row;
+    font-family: ABeeZee;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 18px;
+    border-bottom: 1px solid #E2E2E2;
+    width: 350px;
+margin-left: 3%;
+}

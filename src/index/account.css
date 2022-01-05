@@ -1,0 +1,137 @@
+.welcome1 {
+    font-style: italic;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 49px;
+    align-items: center;
+    /* width: 264px; */
+    padding-top: 20px;
+    text-align: left;
+    margin-left: 20%;
+
+}
+
+.green {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    z-index: -1;
+    background-color: #53B175;
+    border-radius: 0px 20px 200px 20px;
+    /* margin-left: -100px; */
+}
+
+.green1 {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    z-index: -1;
+    background-color: #53B175;
+    border-radius: 50%;
+    /* margin-left: -100px; */
+    margin-left: 70%;
+    margin-top: 60%;
+}
+
+.green2 {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    z-index: -1;
+    background-color: #53B175;
+    border-radius: 50%;
+    /* margin-left: -100px; */
+    margin-left: 20px;
+    margin-top: 450px;
+}
+
+.green3 {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    z-index: -1;
+    background-color: #53B175;
+    border-radius: 50%;
+    /* margin-left: -100px; */
+    margin-left: 300px;
+    margin-top: 550px;
+}
+
+.name-input {
+
+    display: flex;
+    justify-content: center;
+}
+
+body .login input {
+    width: 65%;
+    background-color: gainsboro;
+    border: none;
+    padding: 3%;
+}
+body .SignUP input {
+    width: 65%;
+    background-color: gainsboro;
+    border: none;
+    padding: 3%;
+}
+
+.password-input {
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+.login {
+    margin-top: 45%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 50%;
+}
+.SignUP {
+    margin-top: 30%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 50%;
+}
+
+.Login-button button {
+    width: 71%;
+    padding: 3% 1.5%;
+    margin-left: 0;
+    background-color: #53B175;
+    border: none;
+    color: white;
+
+}
+
+.login-login {
+    display: flex;
+    margin-bottom: 5%;
+    justify-content: center;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 30px;
+}
+
+
+.Login-button {
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+}
+
+.haventAccount {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+
+.Login  {
+text-align: right;
+margin: 5% 15%;
+
+}

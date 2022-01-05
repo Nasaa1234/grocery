@@ -1,0 +1,20 @@
+.word button {
+    width: 333px;
+    height: 67px;
+    border-radius: 19px;
+    background-color: #53B175;
+    border: none;
+    color: white;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-family: ABeeZee;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 18px;
+    padding-left: 18%;
+}
+
